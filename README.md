@@ -52,7 +52,12 @@ skills-codelab/
 ├── .agents/                    # Konfigurasi dan pengaturan untuk agent AI otonom
 │   ├── agents.md
 │   ├── skills/
+│   │   ├── audit_code.md
+│   │   ├── deplop_app.md
+│   │   ├── generate_code.md
+│   │   ├── write_specs.md
 │   └── workflows/
+│         ├── agents.md
 ├── app_build/                  # Source code aplikasi utama
 │   ├── backend/                # Layanan backend (Node.js & Express)
 │   └── frontend/               # Layanan frontend (Next.js & React)
